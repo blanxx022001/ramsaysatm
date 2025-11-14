@@ -1,4 +1,5 @@
 "VertexLitGeneric"
 {
 	"$basetexture" "models/ramsay/atm/bake"
+	"$translucent" 1
 }
